@@ -1,4 +1,3 @@
-#____test_____
 class ProductsController < ApplicationController
   # GET /products
   # GET /products.json
